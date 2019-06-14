@@ -1,0 +1,96 @@
+Job ID: 15831147 p1610 Fri Jun 14 23:57:58 CEST 2019
+mcPolymer written by Marco Drache, Georg Drache, Benjamin Hosemann (c) 2008 - 2012, 2014
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+5 species defined:
+Name	Type	Concentration / mol/L
+M	Monomer	2.0
+I	Initiator	0.1
+I_	Species	0.0
+P_	Macro	0.0	excludeLogDistribution
+D	Macro	0.0	excludeLogDistribution
+
+5 rate constants defined:
+Name	Value	[Value]	[Value]
+kd	6.33e-5
+ki	50
+kp	50
+ktd	5e5
+ktc	5e5
+
+register species ok
+register rate constants ok
+register reactions ok
+init Simulation	modeMacro
+init Simulation	ok
+init polymer analysis
+3600	D	HlogM
+7200	D	HlogM
+14400	D	HlogM
+28800	D	HlogM
+57600	D	HlogM
+86400	D	HlogM
+Data Processing initialized
+time	 0.0 s	1560549480
+time	 1800.0 s	1560549498
+time	 3600.0 s	1560549512
+time	 5400.0 s	1560549526
+time	 7200.0 s	1560549535
+time	 9000.0 s	1560549548
+time	 10800.0 s	1560549554
+time	 12600.0 s	1560549560
+time	 14400.0 s	1560549564
+time	 16200.0 s	1560549576
+time	 18000.0 s	1560549579
+time	 19800.0 s	1560549582
+time	 21600.0 s	1560549587
+time	 23400.0 s	1560549589
+time	 25200.0 s	1560549591
+time	 27000.0 s	1560549593
+time	 28800.0 s	1560549594
+time	 30600.0 s	1560549612
+time	 32400.0 s	1560549614
+time	 34200.0 s	1560549615
+time	 36000.0 s	1560549616
+time	 37800.0 s	1560549619
+time	 39600.0 s	1560549620
+time	 41400.0 s	1560549622
+time	 43200.0 s	1560549622
+time	 45000.0 s	1560549623
+time	 46800.0 s	1560549623
+time	 48600.0 s	1560549623
+time	 50400.0 s	1560549626
+time	 52200.0 s	1560549627
+time	 54000.0 s	1560549627
+time	 55800.0 s	1560549628
+time	 57600.0 s	1560549628
+time	 59400.0 s	1560549641
+time	 61200.0 s	1560549641
+time	 63000.0 s	1560549641
+time	 64800.0 s	1560549641
+time	 66600.0 s	1560549642
+time	 68400.0 s	1560549644
+time	 70200.0 s	1560549644
+time	 72000.0 s	1560549648
+time	 73800.0 s	1560549651
+time	 75600.0 s	1560549651
+time	 77400.0 s	1560549651
+time	 79200.0 s	1560549651
+time	 81000.0 s	1560549651
+time	 82800.0 s	1560549655
+time	 84600.0 s	1560549655
+time	 86400.0 s	1560549655
+Sat Jun 15 00:01:15 CEST 2019
+Happy end.
